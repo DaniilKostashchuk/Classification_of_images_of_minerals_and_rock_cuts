@@ -82,8 +82,8 @@ Data # Папка с классами
 ![image](https://github.com/user-attachments/assets/5adf13a8-ac15-4ccc-af35-25de52ce2e8b)
 ![image](https://github.com/user-attachments/assets/9ddc1016-e41a-4deb-98fe-1dfc4c6189b9)
 ![image](https://github.com/user-attachments/assets/f702893f-0afe-4ee0-9b15-df0e9c3b291f)
-![image](https://github.com/user-attachments/assets/93aaf36d-21cc-42cf-9749-cd5724620c75)
 ![image](https://github.com/user-attachments/assets/1dadf142-e9c9-4301-9d7d-e266bdb8cb23)
+![image](https://github.com/user-attachments/assets/93aaf36d-21cc-42cf-9749-cd5724620c75)
 
 ## Лицензия
 Этот проект распространяется под лицензией MIT. Подробности см. в файле `LICENSE`.
