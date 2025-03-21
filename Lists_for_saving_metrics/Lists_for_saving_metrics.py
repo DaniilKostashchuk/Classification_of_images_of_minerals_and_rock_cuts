@@ -1,0 +1,11 @@
+Epoch_loss_train_list = []
+Epoch_acc_train_list = []
+Precision_train_list = []
+Recall_train_list = []
+F1_train_list = []
+
+Epoch_loss_val_list = []
+Epoch_acc_val_list = []
+Precision_val_list = []
+Recall_val_list = []
+F1_val_list = []
