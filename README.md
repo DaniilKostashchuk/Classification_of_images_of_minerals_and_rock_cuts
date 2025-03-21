@@ -73,6 +73,21 @@ Data # Папка с классами
 
 
 ### Классификация изображений шлифов пород
+![image](https://github.com/user-attachments/assets/460b2eed-7229-4cf0-8e88-556883588bcf)
+![image](https://github.com/user-attachments/assets/a7803afc-3180-4a16-8e67-12e9830bac87)
+![image](https://github.com/user-attachments/assets/881ff2bb-7376-4add-bc81-60881611ab03)
+![image](https://github.com/user-attachments/assets/1e12f21c-1704-4cfa-807a-690b0e734172)
+![image](https://github.com/user-attachments/assets/bb593699-161d-4f7a-a4b0-a2ca288e0eab)
+![image](https://github.com/user-attachments/assets/cce9de8d-c67b-43fb-af1f-a9a1a580b613)
+![image](https://github.com/user-attachments/assets/8ba28f11-5db6-4ebe-905a-7e3abdce6ed6)
+![image](https://github.com/user-attachments/assets/2df1b42e-803b-4947-9615-09c386dc6423)
+![image](https://github.com/user-attachments/assets/7f4a5582-24cd-4c63-a683-de24cd4e2fb4)
+![image](https://github.com/user-attachments/assets/3b7705a8-0e1f-4b13-b940-ee48e4d788c5)
+![image](https://github.com/user-attachments/assets/a5399dcf-655b-4427-a2bc-4f60468e3f8b)
+
+
+
+
 
 ## Лицензия
 Этот проект распространяется под лицензией MIT. Подробности см. в файле `LICENSE`.
