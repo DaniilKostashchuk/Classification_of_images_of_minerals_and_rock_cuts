@@ -70,6 +70,18 @@ Data # Папка с классами
 
 ## Графики метрик и пример использования
 ### Классификация изображений минералов
+![image](https://github.com/user-attachments/assets/ce3545ed-1041-4c51-a76b-eab18e0f784c)
+![image](https://github.com/user-attachments/assets/8e36eccd-a449-402e-90cf-14c5a5b165be)
+![image](https://github.com/user-attachments/assets/ca56b40b-fae1-4ef8-bc3a-6cce45c99c08)
+![image](https://github.com/user-attachments/assets/6272ec5b-9218-4559-bf44-c654a0aefa62)
+![image](https://github.com/user-attachments/assets/021443ea-c5fa-4c46-8add-55d28c619a3b)
+![image](https://github.com/user-attachments/assets/b835e89b-a622-42f6-aea5-5bd609d76266)
+![image](https://github.com/user-attachments/assets/bb912bb4-54ca-46c0-bd97-ea1173f31537)
+![image](https://github.com/user-attachments/assets/177d3079-2570-4889-b368-56b13e029111)
+![image](https://github.com/user-attachments/assets/d0b70a1b-eaf7-4a26-b0f6-dad7284f0f89)
+![image](https://github.com/user-attachments/assets/fcc6d9e5-5456-4c01-8cb5-3610590b678d)
+![image](https://github.com/user-attachments/assets/f6ae563b-ad53-4212-b726-0df8e35df497)
+![image](https://github.com/user-attachments/assets/1b613b25-0cfe-49eb-903e-91e25de0ec64)
 
 
 ### Классификация изображений шлифов пород
