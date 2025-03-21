@@ -66,6 +66,7 @@ Data # Папка с классами
 * `torchvision`: для загрузки данных и аугментаций.
 * `sklearn.metrics`: для расчета метрик (`precision`, `recall`, `F1-score`).
 * `matplotlib` и `seaborn`: для визуализации данных и метрик.
+* `efficientnet_pytorch` для импорта `EfficientNet`.
 
 ## Графики метрик и пример использования
 ### Классификация изображений минералов
