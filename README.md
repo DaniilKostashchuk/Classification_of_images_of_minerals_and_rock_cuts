@@ -23,12 +23,12 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 ```
 Data # Папка с классами
 ├── class_1
-│   ├── image_1.jpg
-│   ├── image_2.jpg
+│   ├── image_1_1.jpg
+│   ├── image_1_2.jpg
 │   └── ...
 ├── class_2
-│   ├── image_1.jpg
-│   ├── image_2.jpg
+│   ├── image_2_1.jpg
+│   ├── image_2_2.jpg
 │   └── ...
 └── ...
 ```
