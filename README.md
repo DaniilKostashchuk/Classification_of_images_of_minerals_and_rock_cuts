@@ -100,5 +100,7 @@ Data # Папка с классами
 ## Лицензия
 Этот проект распространяется под лицензией MIT. Подробности см. в файле `LICENSE`.
 
-## Ссылки на данные
-https://www.kaggle.com/datasets/asiedubrempong/minerals-identification-dataset
+## Ссылки
+Ссылки на данные: https://www.kaggle.com/datasets/asiedubrempong/minerals-identification-dataset<p>
+Ссылка на конвертацию PyTorch модели в ONNX формат: https://github.com/DaniilKostashchuk/Converting_the_Pwtorch_model_to_ONNX_format<p>
+Сылка на TG-бота: https://github.com/DaniilKostashchuk/Telegram_Bot_for_Mineral_Classification
